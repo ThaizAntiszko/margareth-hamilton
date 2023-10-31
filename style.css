@@ -1,12 +1,12 @@
-body { 
+body{ 
     background-color: #FFF2D8;
 }
 
-#titulo {
+#titulo{
     text-align: center;
 }
 
-.texto {
+.texto{
     text-align: center;
     color:rgb(197, 60, 156);
     font-size: 20px;
