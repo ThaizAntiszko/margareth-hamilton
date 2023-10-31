@@ -1,12 +1,15 @@
 body{ 
     background-color: #c998c5;
 }
+.foto{
+    text-align: center;
+}
 #titulo{
     text-align: center;
 }
 .texto{
     text-align: center;
-    color:rgb(197, 60, 156);
+    color:rgb(50, 8, 37);
     font-size: 20px;
 }
 
